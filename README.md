@@ -1,2 +1,2 @@
-# Python_Store
+# Python_Global_Store
 Analise_exploratoria -> Facens-( Data Science 2020)
